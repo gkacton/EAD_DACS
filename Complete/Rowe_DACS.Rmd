@@ -17,15 +17,21 @@ output:
   _Reference Code:_ BCCA_Rowe
 
 ### Repository Information
-  **Name:** Bates College Clothing Archive
+
+  **Name:** Bates College Clothing Archive 
+  
   **Location:** 95 Nichols St., Lewiston, ME 04240
   
 ### Languages
+
   **Language of finding aid:** English
+  
   **Language of materials:** English
 
 ### Dates
+
   **Date Range:** 1840-1940
+  
   **Bulk Dates:** 1910-1940
 
 ### Extent
@@ -34,7 +40,7 @@ output:
 ### Origination
   - Ruth Rowe Wilson, 1914-2012
   - Eleanor Hope Chandler Rowe, 1887-1972
-  - Harry Willison Rowe, 1887-[1980]
+  - Harry Willison Rowe, 1887-1980
   - Valentine Haining Wilson, 1915-1964
 
 ### Biographical Note
@@ -55,7 +61,7 @@ output:
 
 ## Conditions Governing Access, Reproductions, and Use
 
-  Items in this collection are available study by request only. Items do not circulate and may only be used under supervision of Professor B. Christine McDowell in the costume storage building. Digital surrogates of many collection items are available in the [digital archive](https://clothingarchive.bates-catapult.net/s/bcca/page/home) and may be freely reproduced.
+  Items in this collection are available for study by request only. Items do not circulate and may only be used under supervision of Professor B. Christine McDowell in the costume storage building. Digital surrogates of many collection items are available in the [digital archive](https://clothingarchive.bates-catapult.net/s/bcca/page/home) and may be freely reproduced.
   
 ## Acquisition
 
@@ -190,4 +196,4 @@ Contains four sub-series:
   - [Children's Clothes - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/163#lg=1&amp;slide=0)
   - [Child's Dress - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/169)
   - [Cummerbund - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/171)
-  - [Chandler Bodice = Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/173)
+  - [Chandler Bodice - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/173)
