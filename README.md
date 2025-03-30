@@ -8,4 +8,6 @@
 This is a place for me to store my completed and in-progress finding aids, in both machine-readable (EAD/XML) and human readable formats. 
 
 ## Completed Finding Aids
-  - Bates College Clothing Archive (BCCA): Rowe Family Collection (EAD and human-readable HTML)
+  - Bates College Clothing Archive (BCCA): Rowe Family Collection
+    - [EAD](Complete/Rowe_EAD.xml)
+    - [Human-readable](Complete/Rowe_DACS.html)
