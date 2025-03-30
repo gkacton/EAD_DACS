@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/ead3.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/" audience="external">
+	<control>
+		<recordid>BCCA_EAD</recordid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Bates College Clothing Archive</titleproper>
+			</titlestmt>
+			<publicationstmt><p>Unpublished.</p>
+			</publicationstmt>
+		</filedesc>
+		<maintenancestatus value="new">version 1.0</maintenancestatus>
+		<maintenanceagency countrycode="US">
+			<agencyname>Grace Acton</agencyname>
+			<descriptivenote>
+				<p>Grace Acton is an individual, not a formal agency.</p>
+			</descriptivenote>
+		</maintenanceagency>
+		<languagedeclaration>
+			<language langcode="eng">English</language>
+			<script scriptcode="Latn">"Latin"</script> 
+		</languagedeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="created"/>
+				<eventdatetime standarddatetime="2006-03-27">27 March 2025</eventdatetime>
+				<agenttype value="human"></agenttype>
+				<agent>Grace Acton</agent>
+			</maintenanceevent>
+		</maintenancehistory>
+	</control>
+	<archdesc level="fonds">
+		<did>
+			<unittitle>Bates College Clothing Archive</unittitle>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate>1840</fromdate>
+					<todate>1940</todate>
+				</daterange>
+			</unitdatestructured>
+			<unitdatestructured unitdatetype="bulk">
+				<daterange>
+					<fromdate>1870</fromdate>
+					<todate>1920</todate>
+				</daterange>
+			</unitdatestructured>
+			<physdescset>
+				<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+					<quantity>23</quantity>
+					<unittype>boxes</unittype>
+				</physdescstructured>
+				<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+					<quantity>157</quantity>
+					<unittype>garments</unittype>
+				</physdescstructured>
+			</physdescset>
+			<repository label="Repository">
+				<corpname>
+					<part>Bates College</part>
+					<part>Clothing Archive</part>
+					<part>Department of Theater and Dance</part>
+				</corpname>
+					<address>
+						<addressline> 95 Nichols St </addressline>
+						<addressline> Lewiston, ME 04240 </addressline>
+					</address>
+			</repository>
+		</did>
+		<accessrestrict>
+			<p>Items in this collection are available study by request only. Items do not circulate and may only be used under supervision of Professor B. Christine McDowell in the costume storage building.</p>
+		</accessrestrict>
+		<scopecontent>
+			<p>The Bates College Clothing Archive (BCCA) is a research and study collection of historical clothing owned by Bates College in Lewiston, Maine. The collection spans from roughly 1840 to 1930. We hold a collection of clothing owned by the family of Harry W. Rowe, Bates College's first Dean of Faculty, as well as items belonging to Barbara Wiggin of Lewiston, Maine, all from 1910 to 1940. Our collection is strongest, however, in late nineteenth century middle-class women's clothing, such as day bodices, skirts, and outerwear.</p>
+		</scopecontent>
+		<bioghist>
+			<p>Most items in this collection are of unknown provenance, and were donated to the Bates Department of Theater and Dance with the intention of being used as theatrical costumes. The collection was processed by Grace Acton during the 2023-2024, in partial fulfillment of an Honors Thesis in Interdisciplinary Studies.</p>
+		</bioghist>
+		<controlaccess>
+			<subject source="lcsh" identifier="http://id.loc.gov/authorities/subjects/sh2003012061">
+				<part>Clothing and dress</part>
+				<part>History</part>
+			</subject>
+			<subject source="lcsh" identifier="http://id.loc.gov/authorities/subjects/sh85033238">
+				<part>Costume</part>
+			</subject>
+			<subject source="lcsh" identifier="http://id.loc.gov/authorities/subjects/sh85039509">
+				<part>Dress accessories</part>
+			</subject>
+		</controlaccess>
+		<dsc>
+			<c01 level="collection">
+				<did>
+					<unittitle>Rowe Family Collection</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+						<daterange>
+							<fromdate standarddate="1840">1840</fromdate>
+							<todate standarddate="1940">1940</todate>
+						</daterange>
+					</unitdatestructured>
+					<origination>
+						 <famname>
+							<part>Rowe Family</part>
+						</famname>
+						<persname normal="Ruth Rowe Wilson, 1914-2012">
+							<part localtype="surname">Wilson</part>
+							<part localtype="givenname">Ruth Rowe</part>
+							<part localtype="dates">1914-2012</part>
+						</persname>
+						<persname normal="Eleanor Hope Chandler Rowe, 1887-1972">
+							<part localtype="surname">Rowe</part>
+							<part localtype="givenname">Eleanor Hope Chandler</part>
+							<part localtype="dates">1887-1972</part>
+						</persname>
+						<persname normal="Harry Willison Rowe, 1887-[1980]">
+							<part localtype="surname">Rowe</part>
+							<part localtype="givenname">Harry Willison</part>
+							<part localtype="dates">1887-1980</part>
+						</persname>
+						<persname normal="Valentine Haining Wilson, 1915-1964">
+							<part localtype="surname">Wilson</part>
+							<part localtype="givenname">Valentine Haining</part>
+							<part localtype="dates">1915-1964</part>
+							<part localtype="nickname">Val</part>
+						</persname>
+					</origination>
+					<physdescset>
+						<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+							<quantity>3</quantity>
+							<unittype>boxes</unittype>
+						</physdescstructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+							<quantity>23</quantity>
+							<unittype>garments</unittype>
+						</physdescstructured>
+					</physdescset>
+				</did>
+				<bioghist>
+					<p>Four members of the Rowe family -- Eleanor Hope Chandler Rowe, her husband Harry Willison Rowe, their daughter Ruth Rowe Wilson, and her husband Valentine "Val" Haining Wilson -- were attendees of Bates College, and remained involved with the College for decades after their studies. Harry was the College's first Dean of Faculty, serving from 1946-1958, and Ruth was the editor the _Bates Magazine_ from 1964-1980. </p>
+					<p>Eleanor Hope Chandler was born in Presque Isle, Maine in 1887. She attended Bates College, matriculating with the Class of 1912, but did not complete her Bachelor's Degree. While at Bates, she met her husband, Harry Willison Rowe, born in 1887 in Mercer, Maine, and the two married on September 2, 1913 at Hope's family home in Presque Isle.</p>
+					<p>Harry was hired by Bates College in 1914 as the Secretary of the Young Men's Christian Association (YMCA). Over the next 44 years, Harry would hold a variety of positions in the Bates College administration, including Bursar, Alumni Secretary, Assistant to President Clifton Dagget Gray, and, starting in 1946, the College's first Dean of Faculty. Hope and Harry lived adjacent to the College, and Hope frequently acted as a chaperone for campus events. The Rowes had three children: Ruth, born in 1914, Robert, born in 1916, and Esther, born in 1917. Following his retirement in 1958, Harry became the first unofficial archivist and historian of Bates College.</p>
+					<p>Ruth Rowe followed in her parents' footsteps and likewise attended Bates College, where she was highly involved in campus life as a reporter for the student newspaper, a competitive debater, President of the Young Women's Christian Association (YWCA), choir singer, and Winter Carnival committee member. At Bates, she met her husband, Valentine "Val" Wilson, and the two were chosen to represent the college at the international convention of the Student Volunteer Movement in 1935. Ruth graduated in 1936 and Val in 1938; the two married in Gomes Chapel on August 25, 1939. Val went on to have a successful career as a Baptist minister and higher education leader, becoming Vice President of the Colorado Woman's College in 1950 and President of Skidmore College in 1957. Ruth and Val were noted for taking personal interest in the lives of students, and had six children of their own: David, Carol, Alden, Nancy, Kathryn, and James</p>
+				</bioghist>
+				<c02 level="series">
+					<did>
+						<unittitle>Women's Garments</unittitle>
+						<container containerid="1E.1" localtype="box">1E.1</container>
+						<physdescset>
+							<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+								<quantity>1</quantity>
+								<unittype>box</unittype>
+							</physdescstructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>13</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</physdescset>
+					</did>
+					<scopecontent>
+						<p>This series consists of clothing designed to be worn by adult women, including Eleanor Hope Chandler Rowe and Ruth Rowe Wilson, as well as the family's ancestors.</p>
+					</scopecontent>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Ancestors' Apparel</unittitle>
+							<unitdatestructured unitdatetype="inclusive">
+								<daterange>
+									<fromdate>1840</fromdate>
+									<todate>1900</todate>
+								</daterange>
+							</unitdatestructured>
+							<unitdatestructured unitdatetype="bulk" certainty="circa">
+								<datesingle>1900</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>4</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Contains garments belonging to Rowe family ancestors which predate Hope Chandler's adulthood.</p>
+						</scopecontent>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.01</unitid>
+								<unittitle>Bodice</unittitle>
+								<unitdatestructured certainty="circa">
+									<datesingle>1900</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>bodice</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Black satin bodice with lace overlay.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.02</unitid>
+								<unittitle>Skirt</unittitle>
+								<unitdatestructured certainty="circa">
+									<datesingle>1900</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>skirt</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Black satin skirt.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.03</unitid>
+								<unittitle>Cap</unittitle>
+								<unitdatestructured certainty="circa">
+									<datesingle>1900</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>cap</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Black satin cap.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.04</unitid>
+								<unittitle>Bodice</unittitle>
+								<unitdatestructured certainty="circa">
+									<daterange>
+										<fromdate>1840</fromdate>
+										<todate>1850</todate>
+									</daterange>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>bodice</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Brown wool bodice with off-white repeating print.</p>
+							</scopecontent>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Hope's Rose Dress and Accessories</unittitle>
+							<unitdatestructured unitdatetype="inclusive" certainty="likely">
+								<datesingle>1939</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>3</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>n ensemble worn by Hope Chandler Rowe to the wedding of her daughter, Ruth Rowe Wilson.</p>
+						</scopecontent>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.05</unitid>
+								<unittitle>Dress</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1939</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>dress</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Pink lace dress.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.06</unitid>
+								<unittitle>Gloves</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1939</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>pair of gloves</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Pair of purple knit gloves.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.07</unitid>
+								<unittitle>Sash or cummerbund</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1939</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>sash</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Sash or cummerbund in pink chiffon.</p>
+							</scopecontent>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Hope's Wedding Underwear</unittitle>
+							<unitdatestructured unitdatetype="inclusive" certainty="likely">
+								<datesingle>1913</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>4</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Contains two sets of coordinated chemises and drawers which were described by the donor as Hope's "wedding underwear".</p>
+						</scopecontent>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.12</unitid>
+								<unittitle>Chemise</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1913</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>chemise</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>White cotton chemise embroidered with "EHC" monogram.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.13</unitid>
+								<unittitle>Drawers</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1913</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>pair of drawers</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>White cotton drawers embroidered with "EHC" monogram.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.14</unitid>
+								<unittitle>Chemise</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1913</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>chemise</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>White linen chemise with cutwork embroidery.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.15</unitid>
+								<unittitle>Drawers</unittitle>
+								<unitdatestructured certainty="likely">
+									<datesingle>1913</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>pair of drawers</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>White linen drawers with cutwork embroidery.</p>
+							</scopecontent>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Additional</unittitle>
+							<unitdatestructured unitdatetype="inclusive" certainty="circa">
+								<datesingle>1920</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>2</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Additional garments likely worn by Hope Chandler Rowe or Ruth Rowe Wilson.</p>
+						</scopecontent>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.16</unitid>
+								<unittitle>Veil</unittitle>
+								<unitdatestructured certainty="circa">
+									<daterange>
+										<fromdate>1910</fromdate>
+										<todate>1950</todate>
+									</daterange>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>veil</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Ivory tulle wedding veil. Possibly worn by Hope Chandler (married 1913) or Ruth Rowe (married 1939).</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.03.18</unitid>
+								<unittitle>Cocktail dress</unittitle>
+								<unitdatestructured certainty="circa">
+									<datesingle>1920</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype>dress</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent>
+								<p>Beige satin dress with beaded overlay and braided trim.</p>
+							</scopecontent>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="series">
+					<did>
+						<unittitle>Children's Garments</unittitle>
+						<container containerid="1F.3" localtype="box">1F.3</container>
+						<physdescset>
+							<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+								<quantity>1</quantity>
+								<unittype>box</unittype>
+							</physdescstructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>5</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</physdescset>
+						<origination>
+							<persname normal="Esther Rowe" relator="wearer">
+								<part localtype="surname">Rowe</part>
+								<part localtype="givenname">Esther</part>
+							</persname>	
+						</origination>
+					</did>
+					<scopecontent>
+						<p>This series consists of clothing in appropriate sizes for children aged 0-6. The donor described these items as being worn by Ruth Rowe Wilson and Esther Rowe as children, and some are likely created from passed-down clothing items.</p>
+					</scopecontent>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.19</unitid>
+							<unittitle>Child's dress</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1915</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype>dress</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>White cotton dress with lace trim taken from an earlier petticoat.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.20</unitid>
+							<unittitle>Child's trousers</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1920</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype>pair of trousers</unittype>
+							</physdescstructured>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.21</unitid>
+							<unittitle>Child's smock dress</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1920</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype>dress</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+								<p>Child's smock-style dress in cotton fabric with print of ducks.</p>
+							</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.22</unitid>
+							<unittitle>Child's tunic</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1915</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype>tunics</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Child's cotton gingham tunic.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.23</unitid>
+							<unittitle>Child's shorts</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1915</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype>pair of shorts</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Child's cotton gingham shorts.</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="series">
+					<did>
+					  <container containerid="1E.3" localtype="box">1E.3</container>
+						<unittitle>Bathing Suits</unittitle>
+						<physdescset>
+							<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+								<quantity>1</quantity>
+								<unittype>box</unittype>
+							</physdescstructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>4</quantity>
+								<unittype>garments</unittype>
+							</physdescstructured>
+						</physdescset>
+					</did>
+					<scopecontent>
+						<p>This series consists of wool knit bathing suits which were noted by the donor as belonging to Eleanor Hope Chandler.</p> 
+					</scopecontent>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.08</unitid>
+							<unittitle>Bathing suit</unittitle>
+							<unitdatestructured>
+								<datesingle>1921</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype identifier="http://vocab.getty.edu/aat/300129420">bathing suit</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Solid black wool knit bathing suit.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.09</unitid>
+							<unittitle>Bathing suit</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1920</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype identifier="http://vocab.getty.edu/aat/300129420">bathing suit</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Solid navy wool knit bathing suit.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.10</unitid>
+							<unittitle>Bathing suit</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1920</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+							  <quantity>1</quantity>
+							  <unittype identifier="http://vocab.getty.edu/aat/300129420">bathing suit</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Dark gray wool knit with stripes of purple, green, and peach.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unitid>BCCA2024.03.11</unitid>
+							<unittitle>Bathing suit</unittitle>
+							<unitdatestructured certainty="circa">
+								<datesingle>1920</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+							   <quantity>1</quantity>
+							   <unittype identifier="http://vocab.getty.edu/aat/300129420">bathing suit</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent>
+							<p>Navy wool knit with green trim.</p>
+						</scopecontent>
+					</c03>
+				</c02>
+				<c02 level="series">
+					<did>
+						<unittitle>Provenance Documents</unittitle>
+						<didnote>Available only as digital images. Originals were disposed of due to concern of acidity and pest infestation.</didnote>
+						<daoset coverage="part">
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/373#lg=1&amp;slide=0" linktitle="Hope's Wedding Underwear - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/156#lg=1&amp;slide=0" linktitle="Hope's Rose Dress - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/159#lg=1&amp;slide=0" linktitle="Black Satin Set - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/161#lg=1&amp;slide=0" linktitle="Bathing Suits - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/163#lg=1&amp;slide=0" linktitle="Children's Clothes - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/169" linktitle="Child's Dress - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/171" linktitle="Cummerbund - Provenance" />
+							<dao daotype="derived" coverage="part" href="https://clothingarchive.bates-catapult.net/s/bcca/item/173" linktitle="Chandler Bodice = Provenance" />
+						</daoset>
+						<langmaterial>
+						  <language langcode="eng" lang="eng">English</language>
+						</langmaterial>
+						<physdescstructured physdescstructuredtype="materialtype" coverage="whole">
+							<quantity>15</quantity>
+							<unittype>JPEG images</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent><p>Notes written on or enclosed within cardboard boxes used to deliver and store the Rowe Family Collection. Likely written by Ruth Rowe Wilson or Hope Chandler Rowe. Photographs produced by Grace Acton.</p></scopecontent>
+				</c02>
+			</c01>
+			<c01 level="collection">
+				<did>
+					<unittitle>General Collection</unittitle>
+					<unitdatestructured unitdatetype="inclusive">
+						<daterange>
+							<fromdate>1840</fromdate>
+							<todate>1940</todate>
+						</daterange>
+					</unitdatestructured>
+				</did>
+				<scopecontent><p>The general collection encompasses all garments not contained within the Rowe Family collections.</p></scopecontent>
+				<c02 level="series">
+					<did>
+						<unittitle>Outerwear</unittitle>
+						<unitdatestructured certainty="circa" unitdatetype="inclusive">
+							<daterange>
+									<fromdate>1860</fromdate>
+									<todate>1930</todate>
+							</daterange>
+						</unitdatestructured>
+						<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+							<quantity>20</quantity>
+							<unittype identifier="http://vocab.getty.edu/page/aat/300209265">Outerwear garments</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent><p>This series represents outerwear garments designed for all genders, including coats, dusters, jackets, and shawls.</p></scopecontent>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Coats</unittitle>
+							<unitdatestructured certainty="circa" unitdatetype="inclusive">
+								<daterange>
+									<fromdate></fromdate>
+									<todate></todate>
+								</daterange>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>6</quantity>
+								<unittype>Coats</unittype>
+							</physdescstructured>
+						</did>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Capes</unittitle>
+							<unitdatestructured certainty="circa" unitdatetype="inclusive">
+								<daterange>
+									<fromdate></fromdate>
+									<todate></todate>
+								</daterange>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>7</quantity>
+								<unittype>Capes</unittype>
+							</physdescstructured>
+						</did>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Jackets</unittitle>
+							<unitdatestructured certainty="circa" unitdatetype="inclusive">
+								<daterange>
+									<fromdate></fromdate>
+									<todate></todate>
+								</daterange>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>6</quantity>
+								<unittype></unittype>
+							</physdescstructured>
+						</did>
+					</c03>
+					<c03 level="item">
+						<did>
+							<unittitle>Shawl</unittitle>
+							<unitid>BCCA2023.11.03</unitid>
+							<unitdatestructured certainty="after" unitdatetype="inclusive">
+								<datesingle>1850</datesingle>
+							</unitdatestructured>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>1</quantity>
+								<unittype identifier="http://vocab.getty.edu/aat/300209991">Shawl</unittype>
+							</physdescstructured>
+						</did>
+						<controlaccess>
+							<subject source="aat" identifier="http://vocab.getty.edu/aat/300132861">
+								<part>Lace</part>
+							</subject>
+						</controlaccess>
+					</c03>
+				</c02>
+				<c02 level="series">
+					<did>
+						<unittitle>Dresses</unittitle>
+					</did>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Wedding Dresses</unittitle>
+							<unitdatestructured unitdatetype="inclusive">
+								<daterange>
+									<fromdate>1920</fromdate>
+									<todate>1927</todate>
+								</daterange>
+							</unitdatestructured>
+							<container containerid="2B.1" localtype="box">2B.1</container>
+							<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+								<quantity>1</quantity>
+								<unittype>box</unittype>
+							</physdescstructured>
+						</did>
+						<controlaccess>
+							<subject source="lcsh" identifier="http://id.loc.gov/authorities/subjects/sh85145897">
+								<part>Wedding costume.</part>
+							</subject>
+						</controlaccess>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.02.01</unitid>
+								<unittitle>Wedding dress</unittitle>
+								<unitdatestructured unitdatetype="inclusive">
+									<datesingle>1927</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype identifier="http://vocab.getty.edu/aat/300255177">Wedding dress</unittype>
+								</physdescstructured>
+							</did>
+							<scopecontent><p>Ivory silk wedding dress with full lace overlay and long train.</p></scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<unitid>BCCA2024.04.01</unitid>
+								<unittitle>Wedding dress</unittitle>
+								<unitdatestructured unitdatetype="inclusive" certainty="circa">
+									<datesingle>1920</datesingle>
+								</unitdatestructured>
+								<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+									<quantity>1</quantity>
+									<unittype identifier="http://vocab.getty.edu/aat/300255177">Wedding dress</unittype>
+								</physdescstructured>
+								<origination>
+									<persname normal="Barabara Wiggin" relator="wearer">
+										<part localtype="surname">Wiggin</part>
+										<part localtype="givenname">Barbara</part>
+									</persname>
+								</origination>
+							</did>
+							<scopecontent><p>Ivory satin wedding dress.</p></scopecontent>
+						</c04>
+					</c03>
+					<c03 level="subseries">
+						<did>
+							<unittitle>Day Dresses</unittitle>
+							<unitdatestructured unitdatetype="inclusive" certainty="circa">
+								<daterange>
+									<fromdate>1850</fromdate>
+									<todate>1925</todate>
+								</daterange>
+							</unitdatestructured>
+							<container containerid="1C.3" localtype="box">1C.3</container>
+							<container containerid="1E.1" localtype="box">1E.1</container>
+							<container containerid="1E.2" localtype="box">1E.2</container>
+							<container containerid="2A.3" localtype="box">2A.3</container>
+							<container containerid="2B.2" localtype="box">2B.2</container>
+							<container containerid="2C.1" localtype="box">2C.1</container>
+							<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+								<quantity>11</quantity>
+								<unittype identifier="http://vocab.getty.edu/aat/300424320">Day dresses</unittype>
+							</physdescstructured>
+						</did>
+						<scopecontent><p>This sub-series encompasses dresses designed to be worn in the morning and/or afternoon. The 11 garments span from 1850 to 1925, and represent a variety of materials and styles.</p></scopecontent>
+					</c03>
+				</c02>
+				<c02 level="series">
+					<did>
+						<unittitle>Bodices</unittitle>
+						<unitdatestructured unitdatetype="inclusive" certainty="circa">
+							<daterange>
+								<fromdate>1845</fromdate>
+								<todate>1900</todate>
+							</daterange>
+						</unitdatestructured>
+						<container containerid="1A.1" localtype="box">1A.1</container>
+						<container containerid="1C.2" localtype="box">1C.2</container>
+						<container containerid="1D.1" localtype="box">1D.1</container>
+						<container containerid="1E.1" localtype="box">1E.1</container>
+						<container containerid="2A.1" localtype="box">2A.1</container>
+						<container containerid="2B.2" localtype="box">2B.2</container>
+						<physdescstructured coverage="whole" physdescstructuredtype="materialtype">
+							<quantity>36</quantity>
+							<unittype identifier="http://vocab.getty.edu/aat/300209874">Bodices</unittype>
+						</physdescstructured>
+					</did>
+					<scopecontent><p>Bodices (women's garments for the upper body) comprise a large portion of the General Collection. The collection reflects the transition from separate bodices and skirts to one-piece dresses, which took place in the early 20th century. The Bodices series represent styles typical of middle-class New England women, and are constructed mostly of wool and silk fabrics.</p></scopecontent>
+				</c02>
+				<c02 level="series">
+					<did>
+						<unittitle>Skirts</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

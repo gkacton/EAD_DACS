@@ -1,0 +1,193 @@
+---
+title: Bates College Clothing Archive - Rowe Family Collection
+subtitle: DACS-Compliant Finding Aid
+author: Grace Acton
+date: 2025-03-29
+output:
+  html_document:
+    theme: paper
+    highlight: tango
+---
+
+# Collection Overview
+
+### Collection Title 
+  **Rowe Family Clothing Collection**
+  
+  _Reference Code:_ BCCA_Rowe
+
+### Repository Information
+  **Name:** Bates College Clothing Archive
+  **Location:** 95 Nichols St., Lewiston, ME 04240
+  
+### Languages
+  **Language of finding aid:** English
+  **Language of materials:** English
+
+### Dates
+  **Date Range:** 1840-1940
+  **Bulk Dates:** 1910-1940
+
+### Extent
+  3 boxes, containing 23 garments. Additionally, 15 JPEG images of relevant provenance documentation.
+
+### Origination
+  - Ruth Rowe Wilson, 1914-2012
+  - Eleanor Hope Chandler Rowe, 1887-1972
+  - Harry Willison Rowe, 1887-[1980]
+  - Valentine Haining Wilson, 1915-1964
+
+### Biographical Note
+
+   Four members of the Rowe family -- Eleanor Hope Chandler Rowe, her husband Harry Willison Rowe, their daughter Ruth Rowe Wilson, and her husband Valentine "Val" Haining Wilson -- were attendees of Bates College, and remained involved with the College for decades after their studies. Harry was the College's first Dean of Faculty, serving from 1946-1958, and Ruth was the editor the _Bates Magazine_ from 1964-1980. 
+   
+   Eleanor Hope Chandler was born in Presque Isle, Maine in 1887. She attended Bates College, matriculating with the Class of 1912, but did not complete her Bachelor's Degree. While at Bates, she met her husband, Harry Willison Rowe, born in 1887 in Mercer, Maine, and the two married on September 2, 1913 at Hope's family home in Presque Isle. 
+   
+   Harry was hired by Bates College in 1914 as the Secretary of the Young Men's Christian Association (YMCA). Over the next 44 years, Harry would hold a variety of positions in the Bates College administration, including Bursar, Alumni Secretary, Assistant to President Clifton Dagget Gray, and, starting in 1946, the College's first Dean of Faculty. Hope and Harry lived adjacent to the College, and Hope frequently acted as a chaperone for campus events. The Rowes had three children: Ruth, born in 1914, Robert, born in 1916, and Esther, born in 1917. Following his retirement in 1958, Harry became the first unofficial archivist and historian of Bates College.
+   
+   Ruth Rowe followed in her parents' footsteps and likewise attended Bates College, where she was highly involved in campus life as a reporter for the student newspaper, a competitive debater, President of the Young Women's Christian Association (YWCA), choir singer, and Winter Carnival committee member. At Bates, she met her husband, Valentine "Val" Wilson, and the two were chosen to represent the college at the international convention of the Student Volunteer Movement in 1935. Ruth graduated in 1936 and Val in 1938; the two married in Gomes Chapel on August 25, 1939. Val went on to have a successful career as a Baptist minister and higher education leader, becoming Vice President of the Colorado Woman's College in 1950 and President of Skidmore College in 1957. Ruth and Val were noted for taking personal interest in the lives of students, and had six children of their own: David, Carol, Alden, Nancy, Kathryn, and James.
+  
+### Scope and Content Note
+
+   This collection consists mostly of garments worn by Eleanor Hope Chandler Rowe and her daughter, Ruth Rowe Wilson. It also contains some historic garments which belonged to the family's ancestors. 
+   
+# Administrative Information
+
+## Conditions Governing Access, Reproductions, and Use
+
+  Items in this collection are available study by request only. Items do not circulate and may only be used under supervision of Professor B. Christine McDowell in the costume storage building. Digital surrogates of many collection items are available in the [digital archive](https://clothingarchive.bates-catapult.net/s/bcca/page/home) and may be freely reproduced.
+  
+## Acquisition
+
+  The collection was donated by Ruth Rowe Wilson sometime after her husband's death in 1964. No official documentation is available regarding the acquisition of the collection.
+  
+## Arrangement Note
+
+  This collection was processed by Grace Acton '24 in partial fulfillment of an Honors Thesis in Interdisciplinary Studies. A full accounting of the arrangement and description process is available in Chapter 3 of Acton's thesis, available through the Bates SCARAB institutional repository: [Grace Acton, "Fashion Forward: Digitizing Historical Dress in Theory and Practice," (2024) Honors Theses, 468](https://scarab.bates.edu/honorstheses/468/). 
+
+## Arrangement
+The Rowe Family Clothing Collection consists of four series:
+
+  - Women's Clothing
+  - Children's Clothing
+  - Bathing Suits
+  - Provenance Documents
+
+These series are each contained in a distinct box.
+
+Provenance Documents are available in JPEG form on the digital archive only, as the originals were destroyed due to concerns of acidity and pest infestation. 
+
+## Subject Terms
+_Terms gathered from the Library of Congress Subject Headings_
+
+  - [Clothing and dress--History](http://id.loc.gov/authorities/subjects/sh2003012061)
+  - [Costume](http://id.loc.gov/authorities/subjects/sh85033238)
+  - [Dress accessories](http://id.loc.gov/authorities/subjects/sh85039509)
+
+## Related Materials
+
+Papers related to Val H. Wilson's Baptist ministry are held by the [American Baptist Historical Society](https://libraries.mercer.edu/archivesspace/repositories/2/archival_objects/150146) (Identifier: US:GaAaABHS:Group-2).
+
+Harry Rowe's papers are held by [Muskie Archives at Bates College](https://bates-archives.libraryhost.com/repositories/2/resources/161) (Identifier: MC071). 
+
+Ruth Rowe Wilson's papers are also held by [Muskie Archives at Bates College](https://bates-archives.libraryhost.com/repositories/2/resources/186) (Identifier: MC100). 
+
+# Inventory
+
+## Series 1: Women's Clothing
+**Box:** 1E.1
+
+**Extent:** 13 garments.
+
+**Scope and Content:** This series consists of clothing designed to be worn by adult women, including Eleanor Hope Chandler Rowe and Ruth Rowe Wilson, as well as the family's ancestors.
+
+**Dates:** 1840-1940 (bulk 1910-1930)
+
+### Arrangement:
+
+Contains four sub-series:
+
+- 1: **Ancestors' Apparel.** Contains Garments belonging to Rowe family ancestors which predate Hope Chandler's adulthood.
+- 2: **Hope's Rose Dress and Accessories.** An ensemble worn by Hope Chandler Rowe to the wedding of her daughter, Ruth Rowe Wilson.
+- 3: **Hope's Wedding Underwear.** Contains two sets of coordinated chemises and drawers which were described by the donor as Hope's "wedding underwear". 
+- 4: **Additional.** Additional garments likely worn by Hope Chandler Rowe or Ruth Rowe Wilson.
+
+### Contents
+#### Subseries 1: Ancestors' Apparel
+
+  - [BCCA2024.03.01](https://clothingarchive.bates-catapult.net/s/bcca/item/180): Black satin bodice with lace overlay, ca. 1900.
+  - [BCCA2024.03.02](https://clothingarchive.bates-catapult.net/s/bcca/item/182): Black satin skirt, ca. 1900.
+  - [BCCA2024.03.03](https://clothingarchive.bates-catapult.net/s/bcca/item/183): Black satin cap, ca. 1900.
+  - [BCCA2024.03.04](https://clothingarchive.bates-catapult.net/s/bcca/item/184): Brown wool bodice with off-white repeating print, ca. 1840-1850.
+	  
+#### Subseries 2: Hope's Rose Dress and Accessories
+	
+  - [BCCA2024.03.05](https://clothingarchive.bates-catapult.net/s/bcca/item/185): Pink lace dress, ca. 1939
+  - [BCCA2024.03.06](https://clothingarchive.bates-catapult.net/s/bcca/item/186): Pair of purple knit gloves, ca. 1939.
+  - [BCCA2024.03.07](https://clothingarchive.bates-catapult.net/s/bcca/item/187): Sash or cummerbund in pink chiffon, ca. 1939.
+
+#### Subseries 3: Hope's Wedding Underwear
+
+  - [BCCA2024.03.12](https://clothingarchive.bates-catapult.net/s/bcca/item/191): White cotton chemise embroidered with "EHC" monogram, ca. 1913.
+  - [BCCA2024.03.13](https://clothingarchive.bates-catapult.net/s/bcca/item/192): White cotton drawers embroidered with "EHC" monogram, ca. 1913.
+  - [BCCA2024.03.14](https://clothingarchive.bates-catapult.net/s/bcca/item/193): White linen chemise with cutwork embroidery.
+  - [BCCA2024.03.15](https://clothingarchive.bates-catapult.net/s/bcca/item/194): White linen drawers with cutwork embroidery. 
+
+#### Subseries 4: Additional
+  - [BCCA2024.03.16](https://clothingarchive.bates-catapult.net/s/bcca/item/195): Ivory tulle wedding veil, dates undetermined.
+  - [BCCA2024.03.18](https://clothingarchive.bates-catapult.net/s/bcca/item/197): Beige satin dress with beaded overlay and braided trim, ca. 1920. 
+
+## Series 2: Children's Clothing
+
+**Box:** 1F.3
+
+**Extent:** 5 garments.
+
+**Scope and Content:** This series consists of clothing in appropriate sizes for children aged 0-6. The donor described these items as being worn by Ruth Rowe Wilson and Esther Rowe as children, and some are likely created from passed-down clothing items.
+
+**Dates:** 1910-1925
+
+### Contents
+
+  - [BCCA2024.03.19](https://clothingarchive.bates-catapult.net/s/bcca/item/198): Child's white dress, ca. 1915.
+  - [BCCA2024.03.20](https://clothingarchive.bates-catapult.net/s/bcca/item/199): Child's pink trousers, ca. 1920.
+  - [BCCA2024.03.21](https://clothingarchive.bates-catapult.net/s/bcca/item/200): Child's smock-style dress in cotton fabric with print of ducks, ca. 1915.
+  - [BCCA2024.03.22](https://clothingarchive.bates-catapult.net/s/bcca/item/201): Child's cotton gingham tunic, ca. 1915.
+  - [BCCA2024.03.23](https://clothingarchive.bates-catapult.net/s/bcca/item/202): Child's cotton gingham shorts, ca. 1915.
+
+## Series 3: Bathing Suits
+
+**Box:** 1E.3
+
+**Extent:** 4 garments.
+
+**Scope and Content:** This series consists of wool knit bathing suits which were noted by the donor as belonging to Eleanor Hope Chandler.
+
+**Dates:** 1920-1925
+
+### Contents
+
+  - [BCCA2024.03.08](https://clothingarchive.bates-catapult.net/s/bcca/item/188): Solid black wool knit bathing suit, 1921.
+  - [BCCA2024.03.09](https://clothingarchive.bates-catapult.net/s/bcca/item/343): Solid navy wool knit bathing suit, ca. 1920.
+  - [BCCA2024.03.10](https://clothingarchive.bates-catapult.net/s/bcca/item/189): Dark gray wool knit bathing suit with stripes of purple, green, and peach, ca. 1920.
+  - [BCCA2024.03.11](https://clothingarchive.bates-catapult.net/s/bcca/item/190): Navy wool knit bathing suit with green trim, ca. 1920. 
+
+## Series 4: Provenance Documents:
+
+**Location:** Bates College Clothing Archive [Omeka Site](https://clothingarchive.bates-catapult.net/s/bcca/page/home).
+
+**Extent:** 15 JPEG images.
+
+**Scope and Content:** This series consists of digital surrogates for handwritten notes including in and on the boxes used to donate the Rowe Family Collection.
+
+**Dates:** Photographs produced in 2024.
+
+### Contents:
+  - [Hope's Wedding Underwear - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/373#lg=1&amp;slide=0)
+  - [Hope's Rose Dress - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/156#lg=1&amp;slide=0)
+  - [Black Satin Set - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/159#lg=1&amp;slide=0)
+  - [Bathing Suits - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/161#lg=1&amp;slide=0)
+  - [Children's Clothes - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/163#lg=1&amp;slide=0)
+  - [Child's Dress - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/169)
+  - [Cummerbund - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/171)
+  - [Chandler Bodice = Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/173)
