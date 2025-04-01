@@ -2,19 +2,21 @@
 title: Bates College Clothing Archive - Rowe Family Collection
 subtitle: DACS-Compliant Finding Aid
 author: Grace Acton
-date: 2025-03-29
 output:
   html_document:
-    theme: paper
-    highlight: tango
+    theme: simplex
+    toc: true
+    toc_float: true
+    collapsed: true
 ---
+--------------------------
 
 # Collection Overview
 
 ### Collection Title 
   **Rowe Family Clothing Collection**
   
-  _Reference Code:_ BCCA_Rowe
+ <u>_Reference Code:_</u> BCCA_Rowe
 
 ### Repository Information
 
@@ -65,6 +67,14 @@ output:
 
   Items in this collection are available for study by request only. Items do not circulate and may only be used under supervision of Professor B. Christine McDowell in the costume storage building. Digital surrogates of many collection items are available in the [digital archive](https://clothingarchive.bates-catapult.net/s/bcca/page/home) and may be freely reproduced.
   
+#### Use and Reproduction of this Finding Aid
+
+This finding aid is available for public use. 
+
+<u>**Recommended Citation**</u>
+
+Rowe Family Clothing Collection, Bates College Clothing Archive, Bates College. 
+  
 ### Acquisition
 
   The collection was donated by Ruth Rowe Wilson sometime after her husband's death in 1964. No official documentation is available regarding the acquisition of the collection.
@@ -113,7 +123,7 @@ Ruth Rowe Wilson's papers are also held by [Muskie Archives at Bates College](ht
 
 **Dates:** 1840-1940 (bulk 1910-1930)
 
-### Arrangement:
+### Arrangement
 
 Contains four sub-series:
 
@@ -192,7 +202,7 @@ Contains four sub-series:
 
 **Dates:** Photographs produced in 2024.
 
-### Contents:
+### Contents
   - [Hope's Wedding Underwear - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/373#lg=1&amp;slide=0)
   - [Hope's Rose Dress - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/156#lg=1&amp;slide=0)
   - [Black Satin Set - Provenance](https://clothingarchive.bates-catapult.net/s/bcca/item/159#lg=1&amp;slide=0)
