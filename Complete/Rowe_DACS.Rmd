@@ -57,21 +57,23 @@ output:
 
    This collection consists mostly of garments worn by Eleanor Hope Chandler Rowe and her daughter, Ruth Rowe Wilson. It also contains some historic garments which belonged to the family's ancestors. 
    
+------------------------------------------------
+   
 # Administrative Information
 
-## Conditions Governing Access, Reproductions, and Use
+### Conditions Governing Access, Reproductions, and Use
 
   Items in this collection are available for study by request only. Items do not circulate and may only be used under supervision of Professor B. Christine McDowell in the costume storage building. Digital surrogates of many collection items are available in the [digital archive](https://clothingarchive.bates-catapult.net/s/bcca/page/home) and may be freely reproduced.
   
-## Acquisition
+### Acquisition
 
   The collection was donated by Ruth Rowe Wilson sometime after her husband's death in 1964. No official documentation is available regarding the acquisition of the collection.
   
-## Arrangement Note
+### Arrangement Note
 
   This collection was processed by Grace Acton '24 in partial fulfillment of an Honors Thesis in Interdisciplinary Studies. A full accounting of the arrangement and description process is available in Chapter 3 of Acton's thesis, available through the Bates SCARAB institutional repository: [Grace Acton, "Fashion Forward: Digitizing Historical Dress in Theory and Practice," (2024) Honors Theses, 468](https://scarab.bates.edu/honorstheses/468/). 
 
-## Arrangement
+### Arrangement
 The Rowe Family Clothing Collection consists of four series:
 
   - Women's Clothing
@@ -83,20 +85,22 @@ These series are each contained in a distinct box.
 
 Provenance Documents are available in JPEG form on the digital archive only, as the originals were destroyed due to concerns of acidity and pest infestation. 
 
-## Subject Terms
+### Subject Terms
 _Terms gathered from the Library of Congress Subject Headings_
 
   - [Clothing and dress--History](http://id.loc.gov/authorities/subjects/sh2003012061)
   - [Costume](http://id.loc.gov/authorities/subjects/sh85033238)
   - [Dress accessories](http://id.loc.gov/authorities/subjects/sh85039509)
 
-## Related Materials
+### Related Materials
 
 Papers related to Val H. Wilson's Baptist ministry are held by the [American Baptist Historical Society](https://libraries.mercer.edu/archivesspace/repositories/2/archival_objects/150146) (Identifier: US:GaAaABHS:Group-2).
 
 Harry Rowe's papers are held by [Muskie Archives at Bates College](https://bates-archives.libraryhost.com/repositories/2/resources/161) (Identifier: MC071). 
 
 Ruth Rowe Wilson's papers are also held by [Muskie Archives at Bates College](https://bates-archives.libraryhost.com/repositories/2/resources/186) (Identifier: MC100). 
+
+------------------------------------------------
 
 # Inventory
 
@@ -182,9 +186,9 @@ Contains four sub-series:
 
 **Location:** Bates College Clothing Archive [Omeka Site](https://clothingarchive.bates-catapult.net/s/bcca/page/home).
 
-**Extent:** 15 JPEG images.
+**Extent:** 15 JPEG images organized into 8 Omeka items.
 
-**Scope and Content:** This series consists of digital surrogates for handwritten notes including in and on the boxes used to donate the Rowe Family Collection.
+**Scope and Content:** This series consists of digital surrogates for handwritten notes included in or written on the boxes used to donate the Rowe Family Collection. They were likely written by Hope Chandler Rowe or Ruth Rowe Wilson, but their origination cannot be confirmed.
 
 **Dates:** Photographs produced in 2024.
 
