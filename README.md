@@ -21,5 +21,8 @@ This is a place for me to store my completed and in-progress finding aids, in bo
     
 ## In-Progress Finding Aids
   - Bates College Clothing Archive (BCCA) full finding aid
-    - [Draft EAD](In_Progress/BCCA_EAD.xml) 
+    - [Draft EAD](In_Progress/BCCA_EAD.xml)
+
+## Non-DACS XML practice
+  - Example Dublin Core [XML encoding]() for one BCCA object 
 
