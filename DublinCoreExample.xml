@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+    "http://dublincore.org/specifications/dublin-core/dcmes-xml/2002-07-31/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://clothingarchive.bates-catapult.net/s/bcca/item/185">
+	<dc:title>day dresses</dc:title>
+	<dc:description>Rose-color midi-length lace dress with 3/4 or elbow-length sleeves.</dc:description>
+	<dc:medium rdf:resource="http://vocab.getty.edu/aat/300132861">lace (needlework)</dc:medium>
+	<dc:coverage>1939</dc:coverage>
+	<dc:provenance rdf:resource="https://clothingarchive.bates-catapult.net/s/bcca/item/156">
+		Worn by Hope Chandler Rowe to the wedding of her daughter, Ruth Rowe Wilson, to Valentine Haining Wilson.
+	</dc:provenance>
+</rdf:Description>
+
+
