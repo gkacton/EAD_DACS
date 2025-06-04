@@ -24,5 +24,5 @@ This is a place for me to store my completed and in-progress finding aids, in bo
     - [Draft EAD](In_Progress/BCCA_EAD.xml)
 
 ## Non-DACS XML practice
-  - Example Dublin Core [XML encoding]() for one BCCA object 
+  - Example Dublin Core [XML encoding](In_Progress/DublinCoreExample.xml) for one BCCA object 
 
